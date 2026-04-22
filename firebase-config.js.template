@@ -1,0 +1,12 @@
+// firebase-config.js.template
+// COPY this to firebase-config.js and fill in your values from Firebase Console.
+// See README.md → "Firebase 설정" for step-by-step guide.
+
+window.FIREBASE_CONFIG = {
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_PROJECT.firebaseapp.com",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_PROJECT.appspot.com",
+  messagingSenderId: "YOUR_SENDER_ID",
+  appId: "YOUR_APP_ID",
+};
